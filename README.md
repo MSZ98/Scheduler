@@ -1,2 +1,4 @@
 # Scheduler
-C Library for sheduled functions calls
+C Library for scheduled functions calls.
+
+
